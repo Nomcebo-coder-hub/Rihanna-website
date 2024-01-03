@@ -4,6 +4,12 @@ body {
   margin: 8px;
 }
 
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 30px 60px;
+}
+
 h1 {
   color: rgb(158, 72, 100);
 }

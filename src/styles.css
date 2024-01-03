@@ -1,16 +1,17 @@
 body {
   background: linear-gradient(68.3deg, rgb(23, 41, 77) 6.3%, #f3719a 90.9%);
   display: block;
-  margin: 8px;
 }
 
 .container {
   max-width: 800px;
   margin: 0 auto;
-  padding: 30px 60px;
+  padding: 30px 40px 30px 40px;
+  display: block;
 }
 
 h1 {
-  color: rgb(158, 72, 100);
+  font-size: 55px;
+  color: rgb(23, 41, 77);
   text-align: center;
 }

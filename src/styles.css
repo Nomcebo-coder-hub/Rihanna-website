@@ -41,3 +41,7 @@ a {
   text-decoration: none;
   color: #be5375;
 }
+
+.debut:hover {
+  color: whitesmoke;
+}

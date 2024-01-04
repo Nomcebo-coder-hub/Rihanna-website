@@ -31,7 +31,11 @@ button {
   border: 1px solid #f3719a;
   border-radius: 15px;
   padding: 20px 15px;
-  color: #f3719a;
   background: white;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0, 3);
+}
+
+a {
+  text-decoration: none;
+  color: #f3719a;
 }

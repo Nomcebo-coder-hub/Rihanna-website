@@ -11,12 +11,13 @@ body {
 
 h1 {
   font-size: 35px;
-  color: white;
+  color: whitesmoke;
   text-align: center;
 }
 
 p {
-  color: white;
+  margin-top: 30px;
+  color: whitesmoke;
   text-align: justify;
 }
 
@@ -28,14 +29,14 @@ button {
   display: block;
   margin: 0 auto;
   text-align: center;
-  border: 1px solid #f3719a;
+  border: 1px solid #be5375;
   border-radius: 15px;
   padding: 20px 15px;
-  background: white;
+  background: whitesmoke;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0, 3);
 }
 
 a {
   text-decoration: none;
-  color: #f3719a;
+  color: #be5375;
 }

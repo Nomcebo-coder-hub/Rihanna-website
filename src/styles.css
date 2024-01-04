@@ -24,11 +24,10 @@ img {
   border-radius: 10px;
 }
 
-a {
+button {
   display: block;
   margin: 0 auto;
   text-align: center;
-  text-decoration: none;
   border: 1px solid #f3719a;
   border-radius: 15px;
   padding: 20px 15px;

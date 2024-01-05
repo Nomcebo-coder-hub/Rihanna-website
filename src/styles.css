@@ -38,11 +38,7 @@ button {
 }
 
 a {
-  text-decoration: none;
-  color: #be5375;
-}
-
-a {
   display: flex;
   justify-content: center;
+  border: 1px solid rgb(23, 41, 77);
 }

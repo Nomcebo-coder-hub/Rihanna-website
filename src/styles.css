@@ -39,12 +39,12 @@ button {
 
 .debut {
   display: flex;
-  text-decoration: none;
+  justify-content: center;
 }
 
 .debut-replay {
-  justify-content: center;
   border: 1px solid rgb(23, 41, 77);
   border-radius: 15px;
   padding: 20px;
+  text-decoration: none;
 }

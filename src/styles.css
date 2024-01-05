@@ -43,8 +43,15 @@ button {
 }
 
 .debut-replay {
+  color: rgb(23, 41, 77);
   border: 1px solid rgb(23, 41, 77);
   border-radius: 15px;
+  background: whitesmoke;
   padding: 20px;
   text-decoration: none;
+}
+
+.debut-replay:hover {
+  color: whitesmoke;
+  background: rgb(23, 41, 77);
 }

@@ -41,6 +41,7 @@ a {
   display: flex;
   justify-content: center;
   border: 1px solid rgb(23, 41, 77);
+  border-radius: 15px;
   text-decoration: none;
   padding: 20px 5px;
 }

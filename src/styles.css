@@ -41,4 +41,5 @@ a {
   display: flex;
   justify-content: center;
   border: 1px solid rgb(23, 41, 77);
+  text-decoration: none;
 }
